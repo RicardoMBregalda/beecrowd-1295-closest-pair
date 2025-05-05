@@ -58,8 +58,6 @@ INFINITY
 python pares_mais_proximos.py
 ```
 
-> Onde `entrada.txt` contém os dados de entrada no mesmo formato descrito.
-
 ---
 
 ## 🧠 Estratégia Utilizada
